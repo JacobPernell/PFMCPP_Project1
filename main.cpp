@@ -115,13 +115,13 @@ horse.gallop();
 horse.graze();
  
 //  8)
-//  Noun:       C++
-//  action 1:   compile
-cpp.compile();
-//  action 2:   throw error
-cpp.throwError();
-//  action 3:   run compiled program
-cpp.runProgram();
+//  Noun:       Cotton Candy Machine
+//  action 1:   make cotton candy
+cottonCandyMachine.makeCottonCandy();
+//  action 2:   change flavor
+cottonCandyMachine.changeFlavor();
+//  action 3:   adjust speed
+cottonCandyMachine.adjustSpeed();
  
 //  9)
 //  Noun:       camera
