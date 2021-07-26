@@ -52,85 +52,94 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
+//  Noun:       dog
+//  action 1:   barks
+dog.bark();
+//  action 2:   begs for treats
+dog.begForTreats();
+//  action 3:   sleeps
+dog.sleep();
 
-//  action 2:
-
-//  action 3:
- 
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       phone
+//  action 1:   rings
+phone.ring();
+//  action 2:   send text message
+phone.sendTextMessage();
+//  action 3:   power turns off
+phone.powerOff();
  
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       TV
+//  action 1:   turn on
+tv.turnOn();
+//  action 2:   increase volume
+tv.increaseVolume();
+//  action 3:   change channel
+tv.changeChannel();
  
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       person
+//  action 1:   sleep
+person.sleep();
+//  action 2:   eat
+person.eat();
+//  action 3:   run
+person.run();
  
 //  5)
-//  Noun:
-//  action 1:
+//  Noun:       airplane
+//  action 1:   take off
+airplane.takeOff();
+//  action 2:   engage landing gear
+airplane.engageLandingGear();
+//  action 3:   do a barrel roll
+airplane.barrelRoll();
 
-//  action 2:
-
-//  action 3:
- 
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       chef
+//  action 1:   cut food
+chef.cutIngredient();
+//  action 2:   stir soup
+chef.stirSoup();
+//  action 3:   turn on stove
+chef.turnOnStove();
  
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       horse
+//  action 1: neigh
+horse.neigh();
+//  action 2:   gallop
+horse.gallop();
+//  action 3:   graze
+horse.graze();
  
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       Cotton Candy Machine
+//  action 1:   make cotton candy
+cottonCandyMachine.makeCottonCandy();
+//  action 2:   change flavor
+cottonCandyMachine.changeFlavor();
+//  action 3:   adjust speed
+cottonCandyMachine.adjustSpeed();
  
 //  9)
-//  Noun:
-//  action 1:
+//  Noun:       camera
+//  action 1:   start recording
+camera.startRecord();
+//  action 2:   take photo
+camera.takePhoto();
+//  action 3:   change aperture settings
+camera.changeAperture();
 
-//  action 2:
-
-//  action 3:
- 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       GitHub
+//  action 1:   create new repo
+github.createRepo();
+//  action 2:   send PR
+github.pullRequest();
+//  action 3:   merge a PR
+github.mergePullRequest();
 
 
 #endif
